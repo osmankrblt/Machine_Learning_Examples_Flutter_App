@@ -1,16 +1,8 @@
-# machine_learning_example_app
+# Machine_Learning_Examples_Flutter_App
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/59209205/192143615-23240cb2-6116-4011-8675-ce267e826964.png)
+CSV file example
 
-## Getting Started
+This app can solve Simple Linear Regression.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future I will add new machine learning methods
